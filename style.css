@@ -7,3 +7,18 @@ h1{
     color: white;
     text-align: center;
 }
+
+img{
+    width:100%;
+}
+
+.column{
+    width: 50%;
+    margin: 10px;
+}
+
+
+.horizontal{
+    display:flex;
+    flex-direction: row;
+}
